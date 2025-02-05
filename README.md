@@ -22,4 +22,4 @@ A playful website that asks for friendship with **escaping "No" button** and **c
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/friend-ask.git
+   https://github.com/Shudipto-creator/Friendship.git
