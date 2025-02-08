@@ -1,6 +1,6 @@
 # Friendship
 
-# 🌟 Will You Be My Friend, Turza? 🌟
+# 🌟 Will You Be My Friend 🌟
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here!-brightgreen)](https://shudipto-creator.github.io/Friendship/)
